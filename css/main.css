@@ -57,6 +57,7 @@ header {
 }
 
 header h1 {
+	border-bottom: 3px solid #77a466;
 	margin: 0;
 	padding: 38px 20px 20px 20px;
 	width: 100%;
